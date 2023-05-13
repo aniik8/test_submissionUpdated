@@ -1,2 +1,2 @@
-from viewsa import post
-from viewsb import get
+from viewsa import *
+from viewsb import *
